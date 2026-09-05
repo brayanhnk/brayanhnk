@@ -53,7 +53,7 @@ class GithubUser {
         this.repoContent = await octokit.paginate("GET /users/{owner}/repos", {
             owner: this.userName,
         });
-        this.name = this.userContent.data.name;
+        this.name = "Brayan Vinicius Hoinacki";
         this.repo = align(this.userContent.data.public_repos);
         this.gists = align(this.userContent.data.public_gists);
         this.followers = align(this.userContent.data.followers);
