@@ -19,5 +19,5 @@ user.fetchContent()
             theme: themes.getTheme(req_theme)
         })
 
-        fs.writeFileSync("./github_stats.svg", outString)
+        fs.writeFileSync("./github_stats_monokai.svg", outString)
     })
