@@ -44,7 +44,7 @@ bem estruturadas e com foco em se especializar na integração de sistemas Back-
 
 <p align="center">
   <img
-    src="./github_stats.svg"
+    src="./github_stats.svg?v=2"
     alt="Estatísticas do GitHub em estilo de terminal"
     width="80%"
   />
