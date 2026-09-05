@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/brayan-vinicius-hoinacki">
+  <a href="https://www.linkedin.com/in/brayan-vinicius-hoinacki-330b5930a">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
@@ -63,7 +63,7 @@ bem estruturadas e com foco em se especializar na integração de sistemas Back-
 Estou sempre aberto a trocar conhecimentos, colaborar em projetos e conhecer novas oportunidades.
 
 <p align="center">
-  <a href="https://linkedin.com/in/brayan-vinicius-hoinacki">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/brayan-vinicius-hoinacki-330b5930a">LinkedIn</a>
   •
   <a href="mailto:brayanhoinacki@gmail.com">E-mail</a>
   •
