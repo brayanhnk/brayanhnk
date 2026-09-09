@@ -34,7 +34,7 @@ bem estruturadas e com foco em se especializar na integração de sistemas Back-
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,python,mysql,docker,grafana&perline=6"
+    src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,python,mysql,docker,grafana,express&perline=6"
     alt="Tecnologias e ferramentas"
   />
 </p>
